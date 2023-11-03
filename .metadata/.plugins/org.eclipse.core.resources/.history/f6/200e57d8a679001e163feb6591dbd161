@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>My Weather App</title>
+</head>
+<body>
+<H1>Hello!!</H1>
+<h2>there</h2>
+<form action="" method="">
+	<input type="text">
+</form>
+</body>
+</html>

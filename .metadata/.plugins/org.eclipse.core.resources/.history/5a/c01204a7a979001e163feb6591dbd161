@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>My Weather App</title>
+</head>
+<body>
+<h1>Welcome To My Weather App !!</h1>
+
+<form action="MyServlet" method="post">
+	<input type="text" name="user_input">
+	<button>Submit</button>
+</form>
+</body>
+</html>
